@@ -53,26 +53,6 @@ A modern, responsive, AI-powered SaaS landing page built using **Next.js 14**, *
 
 ---
 
-## 🤖 AI Usage Report
-
-### AI Tools Used
-
-- **Replit AI** — for generating component templates and layout suggestions
-- **ChatGPT** — for design planning, Tailwind styling tips, and debugging layout issues
-
-### Sample Prompts
-
-1. *"Create a responsive pricing card component in Tailwind with 3 tiers."*
-2. *"Suggest 6 SaaS product features with icons and short descriptions."*
-3. *"Fix the scroll animation not triggering on page load in Next.js."*
-
-### AI vs Manual Work Split
-
-- **AI-generated**: 40% — Used for initial boilerplate, layout templates, and feature ideas
-- **Manual coding**: 60% — Fine-tuned layouts, customized styles, added animations and form validation
-- **Customization**: Modified every AI suggestion to fit a premium, branded look and smooth UX
----
-
 ## 🧭 Getting Started
 
 ```bash
